@@ -1,0 +1,3 @@
+control_ip: "127.0.0.1:9998"
+port: "9999"
+debug: true
